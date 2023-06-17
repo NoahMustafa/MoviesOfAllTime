@@ -1,3 +1,6 @@
+# this code is to show only how to scrap the movies from (e.g. the sci-fi movies on imdb) and not for the whole dataset.
+
+
 import requests
 from bs4 import BeautifulSoup
 import csv
